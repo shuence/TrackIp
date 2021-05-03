@@ -1,4 +1,4 @@
-# trackip-
+# Trackip
 
 ### Installation :
 
@@ -9,8 +9,7 @@
 
 #### > Run : `bash trackip`
 
-## Single Command :
-```
+
 
 ## Find Me on :
 [![Github](https://github.com/its-shubham2323)
